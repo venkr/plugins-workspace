@@ -8,6 +8,8 @@
     ".changes/dialog-can-create-directories.md",
     ".changes/dialog-linux-freeze.md",
     ".changes/dialog-main-thread.md",
+    ".changes/dialog-path-return-mismatch.md",
+    ".changes/enhance-fs-scope-type.md",
     ".changes/enhance-http-scope.md",
     ".changes/file-autogen-fix.md",
     ".changes/fix-fs-watcher-basedir.md",
